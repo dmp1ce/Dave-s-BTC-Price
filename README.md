@@ -1,6 +1,6 @@
 # My BTC Price
 
-[Example](https://dmp1ce.github.io/mybtcprice)
+[Example](https://dmp1ce.github.io/Dave-s-BTC-Price/)
 
 A Javascript web calculator for your custom bitcoin price.
 
